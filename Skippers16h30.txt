@@ -1,0 +1,10 @@
+Company:
+Tagus Sailing
+Day:
+05:02:2023
+Time:
+16:30
+Skippers:
+António Gomes, (english; portuguese), 3*, 120, comfort, 30, 20,(08:03:2023, 19:30)
+Gonçalo Ribeiro, (english; portuguese; spanish), 2*, 100, speed,40, 32, (01:12:2022, 12:00)
+Vasco Amaral, (english; french; portuguese), 1*, 40, comfort, 20,5, (20:12:2022, 09:00)

@@ -1,0 +1,11 @@
+Company:
+Tagus Sailing
+Day:
+07:11:2022
+Time:
+16:30
+Schedule:
+07:11:2022, 10:00, 4, Chico Silva, 400, Kadri Vider
+07:11:2022, 12:00, 2, Nuno Melo, 120, Ehrard Hinrichs
+08:11:2022, 8:00, 1, Chico Silva, 100, Francisca de Jong
+14:11:2022, 14:00, 4, Mário Santos, 400, Vladislav Maraev

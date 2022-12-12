@@ -1,0 +1,11 @@
+Company:
+Tagus Sailing
+Day:
+05:02:2023
+Time:
+16:30
+Requests:
+Vladislav Abramovich, (english; russian), 2*, price, 10
+John Smith, (english), 1*, speed, 2
+François Artaud, (french; german), 3*, comfort, 4
+Juan Ramirez, (spanish), 2*, speed, 1
